@@ -10,3 +10,7 @@ properties.
 
 This project relies on OpenGL to initialize a drawing window and to draw a single pixel of a passed color.
 All other functionality was written from scratch. This project was developed on Linux (Fedora 24).
+
+
+The Report.pdf file is the report for the project that was written to be included with the submission.
+It outlines the basic functionality of the project, and includes an image of an example ray-traced scene.
